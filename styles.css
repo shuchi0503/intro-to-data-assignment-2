@@ -1,0 +1,38 @@
+body{
+    background-color: #f9e4bc;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px 60px 40px 60px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+iframe{
+    border-style: solid;
+    border-color: navy;
+    width: 800px; 
+    height: 695px;
+    padding: 20px;
+    data-external: 1;
+    scrolling: no;
+    frameborder: 0;
+}
+img{
+    width: 70%;
+}
+.containers{
+    width: 70%; 
+}
+.master{
+    /*margin: auto;*/
+}
+.credit{
+    font-size: x-small;
+    color: brown;
+}
+.caption{
+    font-size: smaller;
+    color: brown;
+}
+.lastline{
+    font-style: italic;
+}
